@@ -1,40 +1,11 @@
-.title1 {
-  position: absolute;
-  left: 17px;
-  top: 8px;
-  background-color: white;
-  padding: 2px;
+fieldset {
+  margin-bottom: 20px;
 }
 
-.title2 {
-  position: absolute;
-  left: 17px;
-  top: 194px;
-  background-color: white;
-  padding: 2px;
+div {
+  margin-bottom: 10px;
 }
 
-.title3 {
-  position: absolute;
-  left: 17px;
-  top: 288px;
-  background-color: white;
-  padding: 2px;
-}
-
-.title4 {
-  position: absolute;
-  left: 17px;
-  top: 533px;
-  background-color: white;
-  padding: 2px;
-}
-
-.person {
-  border: 1px black solid;
-  margin: 20px 0;
-}
-
-.person2 {
-  margin: 10px;
+.block_bottom {
+  margin-bottom: auto;
 }
